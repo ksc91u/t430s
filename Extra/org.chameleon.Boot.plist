@@ -4,28 +4,34 @@
 <dict>
 	<key>DropSSDT</key>
 	<string>Yes</string>
+	<key>EnableC2State</key>
+	<string>Yes</string>
+	<key>EnableC3State</key>
+	<string>Yes</string>
+	<key>EnableC4State</key>
+	<string>Yes</string>
 	<key>EthernetBuiltIn</key>
 	<string>Yes</string>
 	<key>GenerateCStates</key>
-	<string>No</string>
+	<string>Yes</string>
 	<key>GeneratePStates</key>
-	<string>No</string>
+	<string>Yes</string>
 	<key>Graphics Mode</key>
 	<string>1600x900x32</string>
-	<key>GraphicsEnabler</key>
-	<string>No</string>
 	<key>IGPEnabler</key>
-        <string>Yes</string>
+	<string>Yes</string>
 	<key>IGPlatformID</key>
-	<string>01660009</string>
+	<string>01660004</string>
+	<key>IntelCapriFB</key>
+	<string>4</string>
 	<key>Kernel</key>
 	<string>mach_kernel</string>
 	<key>Kernel Flags</key>
-	<string>darkwake=0 -v</string>
+	<string>-v</string>
 	<key>Legacy Logo</key>
 	<string>Yes</string>
 	<key>SMBIOS</key>
-	<string>/Extra/SMBios9.2.plist</string>
+	<string>/Extra/MacBookPro10.1.plist</string>
 	<key>Theme</key>
 	<string>Default</string>
 	<key>Timeout</key>

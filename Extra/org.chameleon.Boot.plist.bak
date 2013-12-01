@@ -13,15 +13,15 @@
 	<key>Graphics Mode</key>
 	<string>1600x900x32</string>
 	<key>GraphicsEnabler</key>
-	<string>Yes</string>
+	<string>No</string>
 	<key>IGPEnabler</key>
-        <string>No</string>
+	<string>Yes</string>
 	<key>IGPlatformID</key>
-	<string>01660009</string>
+	<string>01660004</string>
 	<key>Kernel</key>
 	<string>mach_kernel</string>
 	<key>Kernel Flags</key>
-	<string>darkwake=0 -v</string>
+	<string>-v</string>
 	<key>Legacy Logo</key>
 	<string>Yes</string>
 	<key>SMBIOS</key>
